@@ -11,9 +11,11 @@
 
 **技术栈 与 开发工具:**
 <br />
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://github.com/ChaiGuoqing/ChaiGuoqing/blob/main/git.png"></code>
+<code><img height="20" src="https://github.com/ChaiGuoqing/ChaiGuoqing/blob/main/js.png"></code>
+<code><img height="20" src="https://github.com/ChaiGuoqing/ChaiGuoqing/blob/main/vscode.png"></code>
+<code><img height="20" src="https://github.com/ChaiGuoqing/ChaiGuoqing/blob/main/vue.png"></code>
+<code><img height="20" src="https://github.com/ChaiGuoqing/ChaiGuoqing/blob/main/webpack.png"></code>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
