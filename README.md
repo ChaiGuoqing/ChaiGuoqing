@@ -5,11 +5,12 @@
 
 为什么会成为一名程序员，此事说来话长，正在准备[一个文科生的程序员自学之路]()
 
-  <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
+  <img align="right" alt="GIF" src="https://github.com/ChaiGuoqing/ChaiGuoqing/blob/main/code.gif" width="430" height="100%" />
 
 - 📫 我的邮箱: [9696369136@qq.com](mailto:9696369136@qq.com);
 
 **技术栈 与 开发工具:**
+<br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
